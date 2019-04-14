@@ -7,8 +7,8 @@ var restart = 0;
 var operStr = 0;
 var i = 0;
 
-console.log('123'); // 修改地方
-console.log('123'); // 修改地方
+console.log('master 修改'); // master 修改
+
 
 function numBtn(numStr) {
 
