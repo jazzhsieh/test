@@ -7,7 +7,7 @@ var restart = 0;
 var operStr = 0;
 var i = 0;
 
-console.log('b2-3'); // b2-3 修改
+console.log('b2-4'); // b2-4 修改
 
 
 function numBtn(numStr) {
